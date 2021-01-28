@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace InstaDev_ProjetoGrupo3.Controllers
 {
-    [Route("Jogador")]
+    [Route("Usuario")]
     public class UsuarioController : Controller
     {
         Usuario usuarioModel = new Usuario();
@@ -18,10 +18,10 @@ namespace InstaDev_ProjetoGrupo3.Controllers
         public IActionResult Cadastrar (IFormCollection form)
         {
             Usuario novoUsuario = new Usuario();
-            novoUsuario.Email= (form["E-mail"]);
-            novoUsuario.Nome= (form ["Nome Completo"]);
-            novoUsuario.Nickname= ("Nome de Usuário");
-            novoUsuario.Senha= ("Senha");
+            novoUsuario.Email= (form["Email"]);
+            novoUsuario.Nome= (form ["Nome"]);
+            novoUsuario.Nickname= (form["Nickname"]);
+            novoUsuario.Senha= (form["Senha"]);
 
             usuarioModel.Create(novoUsuario);
             ViewBag.Usuarios = usuarioModel.ReadAll();
