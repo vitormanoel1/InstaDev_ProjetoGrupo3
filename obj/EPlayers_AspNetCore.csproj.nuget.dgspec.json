@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FIC\\Desktop\\EPlayers_AspNetCore\\EPlayers_AspNetCore.csproj": {}
+    "C:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FIC\\Desktop\\EPlayers_AspNetCore\\EPlayers_AspNetCore.csproj": {
+    "C:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FIC\\Desktop\\EPlayers_AspNetCore\\EPlayers_AspNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
         "projectName": "EPlayers_AspNetCore",
-        "projectPath": "C:\\Users\\FIC\\Desktop\\EPlayers_AspNetCore\\EPlayers_AspNetCore.csproj",
-        "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FIC\\Desktop\\EPlayers_AspNetCore\\obj\\",
+        "projectPath": "C:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
+        "packagesPath": "C:\\Users\\caicm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\FIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\caicm\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
