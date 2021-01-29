@@ -37,8 +37,8 @@ body{
     Width: 13.43em;
     Height: 1.75em;
     margin-top: 0.08em;
-    margin-left: 19em;
-    margin-right: 17em;
+    margin-left: 13em;
+    margin-right: 3em;
     border-radius: 0.125em;
     background-color: #FAFAFA;
     display: flex;
@@ -56,10 +56,12 @@ body{
     color: #AFAFAF;
 }
 .content{
+    padding-left: 08em;
     width: 80%;
     height: 100%;
     margin: auto;
 }
+
 .centralizador{
     display: flex;
     justify-items: auto;
@@ -144,7 +146,12 @@ menu ul{
     border-radius: 7px;
     background-color: #FAFAFA;
     text-decoration: none;
-    padding: 0.2em;
+    padding: 0.4em;
+    margin-right: 10px;
+    
+}
+.campo1 p{
+    color: grey;
 }
 .campo2{
     border: solid 1px rgba(0, 0, 0, 0.418);
@@ -153,23 +160,42 @@ menu ul{
     float: left;
     border-radius: 10px;
     background-color: #D1D1D1;
-    padding: 0.2em;
-}
-.formPost{
-    margin-top: 60px;
-    margin-left: -130px;
-}
-.btn{
-    margin-top: 5px;
-    padding-top: 0.8em;
-    padding-bottom: 0.8em;
-    padding-left: 2em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
     padding-right: 2em;
-    float: right;
-    background-color: rgb(150, 150, 231);
-    border-radius: 15px;
-    margin-right: 50px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 2em;
+    margin: 10px;
+}
+.campo2 p{
+    color: grey;
+}
+.campo3{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-right: 2em;
+    padding-left: 2em;
+    border-radius: 10px;
+    margin-top:9px;
+    margin-bottom: 9px;
+    background-color: #2686CC;
+    border: solid 1px black;
+}
+.campo3 p{
+    margin-top: -10px;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-right: 1em;
+    padding-left: 1em;
+    color: white;
+}
+.btnpost{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    padding: 1em;
+    
+    padding: 2em;
+    margin-left: -190px;
 }
 .imgpost{
     margin-left: 30px;
