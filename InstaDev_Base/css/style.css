@@ -1,12 +1,20 @@
+@import url('http://fonts.cdnfonts.com/css/billabong');
+
 body
 {
+  background: #ffffff;
   margin: 0;
   padding: 0;
+}
+
+.form{
+  width: 1200px;
   height: 900px;
 }
 
 .login
 {
+  background: #ffffff;
   width: 342px;
   height: 420px;
   border: 1px solid rgba(0, 0, 0, 0.466);
@@ -20,9 +28,16 @@ body
   box-shadow: 0px 0px 3px 0px;
 }
 
-img
+.login .instadev h1
 {
-  margin-bottom: 28px;
+  color: black;
+  display: flex;
+  margin: 0 auto;
+  margin-bottom: 0;
+  font-size: 4.5em;
+  font-weight: normal;
+  font-family: 'billabong';
+  margin-bottom: 2px;
   width: 200px;
 }
 
@@ -33,6 +48,7 @@ input
   transform: translate(-10%, -10%);
   box-sizing: border-box;
   margin-top: 8px;
+  padding-left: 7px;
 }
 
 a input
@@ -83,14 +99,13 @@ p
 
 .cadastro
 {
-  transform: translate(-32%, 400%);
-  width: 330px;
+  transform: translate(-20%, 400%);
+  width: 342px;
   display: flex;
   align-items: baseline;
-  justify-content: space-evenly;
 }
 
-.cadastro #p
+.cadastro .conta
 {
   color: rgba(0, 0, 0, 0.747);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -109,12 +124,32 @@ p
 
 .obtenha
 {
-  width: 320px;
-  transform: translate(-18%, 190%);
+  width: 342px;
+  transform: translate(-20%, 190%);
+  margin-top: 30px;
+}
+
+.aplicativo 
+{
+  width: 342px;
+}
+.aplicativo p
+{
+  display: flex;
+  justify-content: center;
+  width: 342px;
+  margin-left: 0;
+  color: black;
+}
+
+.obtenha .app
+{
+  display: flex;
+  justify-content: center;
 }
 
 .obtenha .app img
 {
-  width: 133px;
-  padding-left: 12px;
+  width: 132px;
+  padding-left: 5px;
 }
