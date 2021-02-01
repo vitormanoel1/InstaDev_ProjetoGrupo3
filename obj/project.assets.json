@@ -8,41 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\winicius\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\FIC\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
->>>>>>> origin/PaginaDeCadastro
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\Back-end\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
       "projectName": "EPlayers_AspNetCore",
-      "projectPath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\Back-end\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
+      "projectPath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
       "packagesPath": "C:\\Users\\winicius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\Back-end\\InstaDev_ProjetoGrupo3\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\FIC\\Desktop\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
-      "projectName": "EPlayers_AspNetCore",
-      "projectPath": "C:\\Users\\FIC\\Desktop\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
-      "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FIC\\Desktop\\InstaDev_ProjetoGrupo3\\obj\\",
->>>>>>> origin/PaginaDeCadastro
+      "outputPath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-<<<<<<< HEAD
         "C:\\Users\\winicius\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
-        "C:\\Users\\FIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
->>>>>>> origin/PaginaDeCadastro
       ],
       "originalTargetFrameworks": [
         "net5.0"

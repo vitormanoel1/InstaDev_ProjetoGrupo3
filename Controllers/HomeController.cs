@@ -5,10 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-<<<<<<< HEAD
-=======
+
 using InstaDev_ProjetoGrupo3.Models;
->>>>>>> origin/PaginaDeCadastro
+
 
 namespace InstaDev_ProjetoGrupo3.Controllers
 {
@@ -30,9 +29,9 @@ namespace InstaDev_ProjetoGrupo3.Controllers
         {
             return View();
         }
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/PaginaDeCadastro
+
+
+
     }
 }

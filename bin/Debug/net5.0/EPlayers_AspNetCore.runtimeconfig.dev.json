@@ -1,14 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-<<<<<<< HEAD
       "C:\\Users\\winicius\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\winicius\\.nuget\\packages"
-=======
-      "C:\\Users\\FIC\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\FIC\\.nuget\\packages",
-      "C:\\Microsoft\\Xamarin\\NuGet"
->>>>>>> origin/PaginaDeCadastro
     ]
   }
 }

@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "iJqUdNKBJ30Z+RY1rS69Niru67bVRfczdzNRKibnVnzg5Rl3sAHfwUVRyGwn49F7gubKCd6iiGSqO1giKoMxhg==",
+  "dgSpecHash": "PUY+FHpGCRkh5CVN5sBwxzt0G52w3IbX4PSbD0dHk9p4B/CgXhfwbNhLcQ8Y4KYGsa3W3cIsl9oCDjOap6xNvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\Back-end\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
-=======
-  "dgSpecHash": "5Lg2R6jpXJj5IoJqKmCEdm4u5SgTR5EJy6X85Te+47HDrwI55QryDD1IiXLwmRO9sgHNbKIYllc+pi8TEFGIZg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\FIC\\Desktop\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
->>>>>>> origin/PaginaDeCadastro
+  "projectFilePath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
