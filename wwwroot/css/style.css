@@ -1,5 +1,5 @@
 @import url('http://fonts.cdnfonts.com/css/billabong');
-<<<<<<< HEAD
+
 
 body
 {
@@ -150,7 +150,7 @@ p
   width: 132px;
   padding-left: 5px;
 }
-=======
+
 @import url('//db.onlinewebfonts.com/c/623c7118249e082fe87a78e08506cb4b?family=Segoe+UI');
 * {
     margin: 0;
@@ -283,4 +283,4 @@ text{
 .imagensbaixar{
     margin-top: 1.25em;
 }
->>>>>>> origin/PaginaDeCadastro
+
