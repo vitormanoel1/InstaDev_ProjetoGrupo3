@@ -26,6 +26,18 @@ header{
     border-bottom: 1px solid #cccccc;
 }
 
+.container{
+    width: 70%;
+    height: 100%;
+    display: flex; 
+    align-items: center;
+    justify-content: space-around;
+}
+
+.container-bio{
+    width: 100%;
+}
+
 .logoInstaDev{
     width: 82px;
     height: 27px;
@@ -47,6 +59,11 @@ header{
     display: flex;
     justify-content: center;
     padding: 30px;
+    /* border-bottom: 1px solid #cccccc;
+    width: 100%; */
+}
+.linha{
+    display: flex;
     border-bottom: 1px solid #cccccc;
     width: 100%;
 }
@@ -159,18 +176,17 @@ input[type="text" i]{
 }
 
 .publicacoes{
-    width: 60%;
+    width: 70%;
     height: 380px;
     display: flex;
     justify-content: center;
     margin-top: 50px;
     background-color: #fff;
+    justify-content: space-between;
 }
 
-.publicacoes img{
-    width: 51%;
-    height: 100%;
-}
+/* .publicacoes img{
+} */
 
 .coments{
     width: auto;
@@ -187,8 +203,7 @@ input[type="text" i]{
 }
 
 .comentuser{
-    width: auto;
-    height: auto;
+    padding: 60px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -197,18 +212,35 @@ input[type="text" i]{
 
 .comentuser p{
     padding-bottom: 10px;
+    /* padding-left: 10px; */
 }
 .user{
     font-weight: 600;
     font-size: 14px;
-    padding-left: 20px;
+    /* padding-left: 20px; */
 }
 
 .user2{
     font-weight: 600;
     font-size: 14px;
-    padding-left: 40px;
+    /* padding-left: 40px; */
 }
+
+.fotoperfilpub{
+    width: 60px;
+    height: 60px;
+}
+
+.nomeuser-localidade{
+    display: flex;
+}
+.titulos-nomeuser{
+    padding-left: 10px;
+}
+.titulos-nomeuser h3{
+    font-weight: 400;
+}
+
 
 
 
