@@ -1,0 +1,64 @@
+@model Usuario 
+@{
+    ViewData["Title"] = "Usuarios";
+}
+<link rel="stylesheet" href="~/css/style.css" />
+
+ <main class="main">
+        <section class="form">
+            <div class="box-cadastro">
+                <h1>InstaDev</h1>
+                <div class="text">
+                    <p>Cadastre-se para ver fotos e</p>
+                        <p>vídeos dos seus amigos.</p>
+                </div>
+               <form method="POST" action='@Url.Action("Cadastrar")' class="cadastro">
+
+    <div class="cadastro">
+        <label>E-mail</label>
+        <input type="text" name="Email" id="cadastrarEmail" placeholder="E-mail" class="dados" />
+    </div>
+
+
+    <div class="cadastro">
+        <label>Nome Completo</label>
+        <input type="text" name="Nome" id="cadastrarNome" placeholder="Nome completo" class="dados"/>
+    </div>
+
+    <div class="cadastro">
+        <label>Nome de Usuario</label>
+        <input type="text" name="Nickname"id="cadastrarNickname" placeholder="Nome de Usuário" class="dados " />
+    </div>
+
+    <div class="cadastro">
+        <label>Senha</label>
+        <input type="password" name="Senha" id="cadastrarSenha" placeholder="Senha" class="dados" />
+    </div>
+
+    <button class="botaoCadastro" type="submit">Cadastrar</button>
+</form>
+
+               <div class="infoform">
+                <p>Ao se cadastrar, você concorda com nossos</p>
+                <p><a href="index.html">Termos</a>,&nbsp<a href="index.html">Política de Dados</a>&nbspe&nbsp<a href="index.html">Política de Cookies</a>.</p>
+               </div>
+                
+            </div>
+            <section class="baixar">
+                <div class="conecte">
+                    <p>Tem uma conta?&nbsp<a href="#">Conecte-se</a></p>
+                </div>
+
+                <div class="baixe">
+                    <p>Obtenha o aplicativo.</p>
+                        <div class="imagensbaixar">
+                            <a href="https://apps.apple.com/br/app/instagram/id389801252"><img src="~/img/app_store 1.png" alt="Obter o aplicativo pela App Store"></a> 
+                            <a href="https://play.google.com/store/apps/details?id=com.instagram.android&hl=pt_BR&gl=US"><img src="~/img/google_play 1.png" alt="Obter o aplicativo pela Google Play"></a>
+                        </div>
+                </div>
+            </section>
+    </section>
+    </main>
+
+
+

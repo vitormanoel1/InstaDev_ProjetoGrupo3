@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\Back-end\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj": {}
   },
   "projects": {
@@ -12,9 +13,31 @@
         "projectPath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\Back-end\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
         "packagesPath": "C:\\Users\\winicius\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\Back-end\\InstaDev_ProjetoGrupo3\\obj\\",
+=======
+    "C:\\Users\\FIC\\Desktop\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\FIC\\Desktop\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FIC\\Desktop\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
+        "projectName": "EPlayers_AspNetCore",
+        "projectPath": "C:\\Users\\FIC\\Desktop\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
+        "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FIC\\Desktop\\InstaDev_ProjetoGrupo3\\obj\\",
+>>>>>>> origin/PaginaDeCadastro
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\winicius\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+          "C:\\Users\\FIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+>>>>>>> origin/PaginaDeCadastro
         ],
         "originalTargetFrameworks": [
           "net5.0"
