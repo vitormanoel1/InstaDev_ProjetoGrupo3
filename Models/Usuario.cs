@@ -1,11 +1,14 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using InstaDev_ProjetoGrupo3.Interfaces;
 
 namespace InstaDev_ProjetoGrupo3.Models
 {
+<<<<<<< HEAD
     public class Usuario:InstaDevBase, IUsuario
+=======
+    public class Usuario : InstaDevBase
+>>>>>>> PaginaLogin
     {
         public string Email{get;set;}
         public string Nome { get; set; }

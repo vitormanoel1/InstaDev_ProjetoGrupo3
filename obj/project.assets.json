@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
       "projectName": "InstaDev_ProjetoGrupo3",
       "projectPath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
       "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\Back-end\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+      "projectName": "InstaDev_ProjetoGrupo3",
+      "projectPath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\Back-end\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+      "packagesPath": "C:\\Users\\winicius\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\Back-end\\InstaDev_ProjetoGrupo3\\obj\\",
+>>>>>>> PaginaLogin
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
