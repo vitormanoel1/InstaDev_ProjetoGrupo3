@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj": {}
+    "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj": {
+    "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
-        "projectName": "EPlayers_AspNetCore",
-        "projectPath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+        "projectName": "InstaDev_ProjetoGrupo3",
+        "projectPath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
         "packagesPath": "C:\\Users\\winicius\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\obj\\",
         "projectStyle": "PackageReference",

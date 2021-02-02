@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
+  "FilePath": "c:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15600,7 +15600,7 @@
     ],
     "CSharpLanguageVersion": 900
   },
-  "RootNamespace": "EPlayers_AspNetCore",
+  "RootNamespace": "InstaDev_ProjetoGrupo3",
   "Documents": [
     {
       "FilePath": "c:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\Views\\Home\\Index.cshtml",
