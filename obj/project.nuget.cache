@@ -4,5 +4,12 @@
   "success": true,
   "projectFilePath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\NomeDoProjeto.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'success', line 5, position 0."
+    }
+  ]
 }

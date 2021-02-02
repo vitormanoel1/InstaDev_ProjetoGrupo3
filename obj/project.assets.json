@@ -66,5 +66,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'success', line 5, position 0."
+    }
+  ]
 }

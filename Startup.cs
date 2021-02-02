@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace EPlayers_AspNetCore
+namespace InstaDev_ProjetoGrupo3
 {
     public class Startup
     {
