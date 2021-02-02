@@ -1,0 +1,469 @@
+@import url('http://fonts.cdnfonts.com/css/billabong');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,300&display=swap');
+
+
+:root{
+
+    --backgroud:  #f1f1f1;
+    --header: #ffffff;
+    --font_site_dark: font-family: 'Roboto', sans-serif;
+    --font_site_light: font-family: 'Roboto', sans-serif;
+    --font_instaDev:  font-family: 'billabong', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--backgroud);
+    font-family: var(--font_site_light);
+}
+
+.dois{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+
+.header-topo{
+    position: absolute;
+    width: 100%;
+    height: 53px;
+    background-color: var(--header);
+    
+}
+    .content-logo{
+        position: absolute;
+        width: 78px;
+        height: 27px;
+        left: 200px;
+        top: 7px;
+        font-family: Billabong;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        color: #000000; 
+        text-decoration: none;
+    }
+
+    .content-search{
+        position: absolute;
+        width: 54px;
+        height: 17px;
+        left: 500px;
+        top: 16px;
+      
+        
+        position: absolute;
+        width: 215px;
+        height: 28px;
+        left: 600px;
+        top: 12px;
+        
+        background: #FAFAFA;
+        border: 1px solid #DCDCDC;
+        box-sizing: border-box;
+        border-radius: 2px;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-family: Segoe UI;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 20px;
+       
+    
+        color: #AFAFAF;
+    }
+
+    .menu{
+        position: absolute;
+        height: 100%;
+        width: 25%;
+        background-color:#ffff;
+        left: 900px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+
+        
+    }
+
+    .img-principal{
+        max-width: 100%;
+        max-height: 100%;
+        width: 200px;
+        height: 200px;
+    }
+    .img-perfil{
+        display: flex;
+        justify-content: space-around;
+        position: absolute;
+        left: 280px;
+        top: 90px;
+
+        background: url(vitas.png);
+        border-radius: 115.5px;
+    }
+
+    .nome-perfil{
+        position: absolute;
+        width: 203px;
+        height: 30px;
+        left: 280px;
+        top: 28px;
+
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        line-height: 30px;
+
+        color: #000000;
+    }
+        .verificado{
+            position: absolute;
+            background-color:#ffff;
+            left: 446px;
+            top: 25px;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+        }
+        .pub{
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 19px;
+            color: #2c2c2c;
+            position: absolute;
+            left: 290px;
+            top: 90px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            flex-wrap: wrap;
+    }
+        .seguindo{
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 19px;
+            color:#2c2c2c;
+            position: absolute;
+            left: 457px;
+            top: 90px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .seguidores{
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 19px;
+            color: #2c2c2c;
+            position: absolute;
+            left: 620px;
+            top: 90px;
+         
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .npub{
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 12px;
+            line-height: 19px;
+            color: #000000;
+            position: absolute;
+            left: 275px;
+            top: 90px;
+        }
+
+        .nseguindo{
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 12px;
+            line-height: 19px;
+            color: #000000;
+            position: absolute;
+            left: 420px;
+            top: 90px;
+        }
+        .nseguidor{
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 12px;
+            line-height: 19px;
+            color: #000000;
+            position: absolute;
+            left: 562px;
+            top: 90px;
+        }
+        .pontos{
+            position: absolute;
+            left: 600px;
+            top: 32px;
+        }
+        .seguir{
+            position: absolute;
+            left: 480px;
+            top: 25px;
+
+            width: 109px;
+            height: 36px;
+            background: #0095f6;
+            border-radius: 4px;
+            box-sizing: border-box;
+            color: #ffff;
+            font-size: 14px;
+            font-family:Arial;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            
+        
+        }
+        .nome-vitas{
+            font-family: Roboto;
+            font-size: 10px;
+            position: absolute;
+            top: 145px;
+            left: 275px;
+            white-space: nowrap
+        }
+        .line{
+            position: absolute;
+            width: 1937.5px;
+            height: 0px;
+            top: 278px;
+
+            border: 1px solid #DCDCDC;
+        }
+
+        .russo{
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 19px;
+            color: #2c2c2c;
+            position: absolute;
+            top: 200px;
+            left: 275px;
+            white-space: nowrap;
+            text-decoration:none;
+        }
+        .cubo{
+            position: absolute;
+            width: 16px;
+            height: 14px;
+            left: 200px;
+            top: 300px;
+            background: url(image.png);
+            transform: matrix(-1, 0, 0, 1, 0, 0);
+        }
+        .pub2{
+            position: absolute;
+            left: 228px;
+            top: 300px;
+            font-family: Roboto;
+            font-size: 14px;
+            color:#2c2c2c;
+            line-height: 16px;
+            letter-spacing: 0.05em;
+
+        }
+
+        .pub-fotos1 {
+            position: absolute;
+            width: 1100px;
+            height: 404px;
+            left : 250px;
+            top: 450px;
+            
+            background: var(--backgroud);
+        }
+
+        .vitasmenor{
+            position: absolute;
+            width: 1100px;
+            height: 404px;
+            left : 710px;
+            top: 470px;
+            
+        }   
+
+        .nome-pub1-1{
+            position: absolute;
+            width: 111px;
+            height: 17px;
+            left: 792px;
+            top: 489px;
+
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 14px;
+            line-height: 16px;
+
+            /* identical to box height */
+
+            color: #000000;
+        }
+        .nome-pub1-2{
+            position: absolute;
+            width: 138px;
+            height: 21px;
+            left: 792px;
+            top: 510px;
+
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 14px;
+            line-height: 16px;
+
+            color: #000000;
+        }
+        .pub1-like1{
+            position: absolute;
+            left: 720px;
+            top: 570px;
+            bottom: 5.97%;
+            color: black;
+            text-decoration: none;    
+        }
+        .pub-coment-neymar{
+            position: absolute;
+            width: 114px;
+            height: 17px;
+            left: 720px;
+            top: 642px;
+
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 13px;
+            line-height: 17px;
+
+            color: #000000;
+            text-decoration: none;
+            white-space: nowrap;
+
+        }
+        .pub-coment1 {
+            position: absolute;
+            width: 138px;
+            height: 21px;
+            left: 792px;
+            top: 642px;
+
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 13px;
+            line-height: 15px;
+            text-decoration: none;
+
+            color: #000000;
+        }
+        .vitas-coment{
+            position: absolute;
+            width: 114px;
+            height: 17px;
+            left: 720px;
+            top: 675px;
+
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 13px;
+            line-height: 17px;
+
+            color: #000000;
+            text-decoration: none;
+            white-space: nowrap;
+        }
+
+        .resp-vitas{
+            position: absolute;
+            width: 138px;
+            height: 21px;
+            left: 810px;
+            top: 675px;
+
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 13px;
+            line-height: 15px;
+            text-decoration: none;
+
+            color: #000000;
+        }
+        .coracao1{
+            position: absolute;
+            left: 1100px;
+            top: 642px;
+        }
+
+        .coracao2{
+            position: absolute;
+            left: 1100px;
+            top: 675px;
+        }
+
+        .outros-coment{
+            position: absolute;
+            width: 187px;
+            height: 21px;
+            left: 720px;
+            top: 790px;
+
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 13px;
+            line-height: 15px;
+            text-decoration: none;
+            color: #909090;
+        }
+      
+            
+
+
+
+/*---------------------------resposividade-------------------------------*/
+
+    @media screen and(max-width:1199px){
+
+    }
+
+    @media screen and(max-width:991px){
+        
+    }
+
+    @media screen and(max-width:767px){
+        
+    }
+
+    @media screen and(max-width:576px){
+        
+    }
