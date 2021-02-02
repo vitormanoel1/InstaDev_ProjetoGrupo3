@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\NomeDoProjeto.csproj",
-      "projectName": "NomeDoProjeto",
-      "projectPath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\NomeDoProjeto.csproj",
+      "projectUniqueName": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+      "projectName": "InstaDev_ProjetoGrupo3",
+      "projectPath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
       "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\obj\\",
       "projectStyle": "PackageReference",
