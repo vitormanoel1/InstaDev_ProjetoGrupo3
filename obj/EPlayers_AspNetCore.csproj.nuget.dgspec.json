@@ -13,6 +13,9 @@
         "packagesPath": "C:\\Users\\winicius\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
           "C:\\Users\\winicius\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],

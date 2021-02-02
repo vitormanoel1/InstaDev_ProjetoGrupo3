@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.csprojAssemblyReference.cache
 C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.AssemblyInfoInputs.cache
@@ -159,3 +158,13 @@ C:\Users\winicius\Documents\SENAI_Atividades\InstaDev_ProjetoGrupo3\obj\Debug\ne
 C:\Users\winicius\Documents\SENAI_Atividades\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.Views.pdb
 C:\Users\winicius\Documents\SENAI_Atividades\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.genruntimeconfig.cache
 C:\Users\winicius\Documents\SENAI_Atividades\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.csproj.CopyComplete
+=======
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.csprojAssemblyReference.cache
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.AssemblyInfo.cs
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.RazorAssemblyInfo.cache
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.RazorAssemblyInfo.cs
+>>>>>>> editarperfil
