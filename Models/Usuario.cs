@@ -1,11 +1,10 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using InstaDev_ProjetoGrupo3.Interfaces;
 
 namespace InstaDev_ProjetoGrupo3.Models
 {
-    public class Usuario : InstaDevBase, IUsuario
+    public class Usuario : InstaDevBase
     {
         // atributos
         public string Email { get; set; }
