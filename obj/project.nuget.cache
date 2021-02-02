@@ -1,21 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "upjMFxGPbW48LEwYrfJS/6VLPqhqNxAE+x8YQJiBhUddY0VpmQw4LRgC8R23KtMF5tAlQ0yurFy30Q0e2PXT8A==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
-=======
   "dgSpecHash": "+j4XShcdyIwGwmtkYEO/Q7VtfrKh9nLpOgc5T5grjp6m3dAOWJJdABavbei2R449W1aLgnMDUO5NQmVkWgbpgQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\Back-end\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
->>>>>>> PaginaLogin
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema ao ler o arquivo de cache C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'success', line 5, position 0."
-    }
-  ]
+  "logs": []
 }
