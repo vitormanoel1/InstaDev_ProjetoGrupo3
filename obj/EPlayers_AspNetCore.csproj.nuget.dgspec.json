@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FIC\\Desktop\\EPlayers_AspNetCore\\EPlayers_AspNetCore.csproj": {}
+    "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FIC\\Desktop\\EPlayers_AspNetCore\\EPlayers_AspNetCore.csproj": {
+    "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FIC\\Desktop\\EPlayers_AspNetCore\\EPlayers_AspNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
         "projectName": "EPlayers_AspNetCore",
-        "projectPath": "C:\\Users\\FIC\\Desktop\\EPlayers_AspNetCore\\EPlayers_AspNetCore.csproj",
-        "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FIC\\Desktop\\EPlayers_AspNetCore\\obj\\",
+        "projectPath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
+        "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\FIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

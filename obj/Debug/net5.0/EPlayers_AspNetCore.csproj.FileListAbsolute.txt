@@ -1,0 +1,8 @@
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.csprojAssemblyReference.cache
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.AssemblyInfo.cs
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.RazorAssemblyInfo.cache
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\EPlayers_AspNetCore.RazorAssemblyInfo.cs
