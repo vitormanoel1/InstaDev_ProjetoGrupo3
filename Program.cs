@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace EPlayers_AspNetCore
+namespace InstaDev_ProjetoGrupo3
 {
     public class Program
     {

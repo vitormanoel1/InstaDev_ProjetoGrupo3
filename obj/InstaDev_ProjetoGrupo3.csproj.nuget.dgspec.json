@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FIC\\Desktop\\EPlayers_AspNetCore\\EPlayers_AspNetCore.csproj": {}
+    "C:\\Users\\winicius\\Documents\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FIC\\Desktop\\EPlayers_AspNetCore\\EPlayers_AspNetCore.csproj": {
+    "C:\\Users\\winicius\\Documents\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FIC\\Desktop\\EPlayers_AspNetCore\\EPlayers_AspNetCore.csproj",
-        "projectName": "EPlayers_AspNetCore",
-        "projectPath": "C:\\Users\\FIC\\Desktop\\EPlayers_AspNetCore\\EPlayers_AspNetCore.csproj",
-        "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FIC\\Desktop\\EPlayers_AspNetCore\\obj\\",
+        "projectUniqueName": "C:\\Users\\winicius\\Documents\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+        "projectName": "InstaDev_ProjetoGrupo3",
+        "projectPath": "C:\\Users\\winicius\\Documents\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+        "packagesPath": "C:\\Users\\winicius\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\winicius\\Documents\\InstaDev_ProjetoGrupo3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\FIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\winicius\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
