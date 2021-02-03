@@ -9,6 +9,11 @@ namespace InstaDev_ProjetoGrupo3.Models
         public int IdComentario { get; set; }
         
         public string Mensagem { get; set; }
+        public int IdUsuario { get; set; }
+        
+        public int IdPublicacao { get; set; }
+        
+        
 
         private const string PATH = "Database/Comentario.csv";
         public Comentario(){
