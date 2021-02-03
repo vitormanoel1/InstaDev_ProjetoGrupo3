@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD:obj/InstaDev_ProjetoGrupo3.csproj.nuget.dgspec.json
     "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj": {}
   },
   "projects": {
@@ -10,6 +11,17 @@
         "projectUniqueName": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
         "projectName": "InstaDev_ProjetoGrupo3",
         "projectPath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+=======
+    "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
+        "projectName": "EPlayers_AspNetCore",
+        "projectPath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
+>>>>>>> 6891201011100efff05bd1b69b4b0208cd9a09fd:obj/EPlayers_AspNetCore.csproj.nuget.dgspec.json
         "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\obj\\",
         "projectStyle": "PackageReference",

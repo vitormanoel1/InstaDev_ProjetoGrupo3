@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "aE0xp95bM9wffdJyHrTnbO0BbQQX5dtyHxT1zD3Y7DzcQ4PC9iiDzz2C/R5G0taqw/Ch1lRTx5XGaxeb/hmKqg==",
   "success": true,
   "projectFilePath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+=======
+  "dgSpecHash": "1x9goZr1tWA4XgSyqR5Z1Re6QJWiD+s4tc0ci7FthjTDi9Oi4U9KuTfjDDOF0Cz6qGqV8Rno0wAk1aHr0tnnFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\EPlayers_AspNetCore.csproj",
+>>>>>>> 6891201011100efff05bd1b69b4b0208cd9a09fd
   "expectedPackageFiles": [],
   "logs": []
 }
