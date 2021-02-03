@@ -19,16 +19,18 @@
                     <div class="instadev">
                         <img src="img/InstaDev.svg" alt="logo InstaDev">
                     </div>
+
                     <form>
-                        <input class="inputLog" type="email" name="" placeholder="Email" alt="digite um email valido">
-                        <br>
-                        <input class="inputLog" type="password" name="" placeholder="Senha">
-                        
-                    <div class="inputEntrar">
-                    <a href="#">
-                        <input class="log" type="submit" value="Entrar">
-                    </a>
-                    </div> 
+                        <div class="email">
+                            <input class="inputLog" type="email" name="" placeholder="Email">
+                        </div>
+
+                        <div class="senha">
+                            <input class="inputLog2" type="password" name="" placeholder="Senha">
+                        </div>
+                    
+                       <button class="log" type="submit" asp-area="" asp-controller="Feed" asp-action="Index">Entrar</button>
+                    
                     
                     <div>
                         <hr id="line">
@@ -41,12 +43,14 @@
 
                     <div class="cadastrologin">
                         <p class="conta">Não tem uma conta?</p>
-<a class="btn gradient" asp-area="" asp-controller="Usuario" asp-action="Index">Cadastrar Usuario</a>                    </div>
+                        <a class="btn gradient" asp-area="" asp-controller="Usuario" asp-action="Index">Cadastrar Usuario</a>                    
+                    </div>
 
                     <div class="obtenha">
                         <div class="aplicativo">
                             <p class="obterApp">Obtenha o aplicativo</p>
-                </div>
+                        </div>
+
                         <div>
                             <div class="app">
                                 <a href="https://apps.apple.com/br/app/instagram/id389801252"><img src="img/app_store 1.svg" alt="Obter o aplicativo pela App Store"></a>
@@ -59,5 +63,3 @@
         </main>
     </body>
 </html>
-
-
