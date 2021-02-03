@@ -9,5 +9,8 @@ namespace InstaDev_ProjetoGrupo3.Interfaces
          List<Usuario> ReadAll();
          void Update(Usuario u);
          void Delete(int id);
+
+       
+
     }
 }

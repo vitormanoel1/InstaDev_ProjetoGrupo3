@@ -1,5 +1,6 @@
 @import url('http://fonts.cdnfonts.com/css/billabong');
 
+
 body
 {
   background: #ffffff;
@@ -7,9 +8,9 @@ body
   padding: 0;
 }
 
-.form{
+.formLogin{
   width: 1200px;
-  height: 900px;
+  height: 800px;
 }
 
 .login
@@ -28,32 +29,31 @@ body
   box-shadow: 0px 0px 3px 0px;
 }
 
-.login .instadev h1
+.login .instadev img
 {
   color: black;
   display: flex;
   margin: 0 auto;
-  margin-bottom: 0;
-  font-size: 4.5em;
-  font-weight: normal;
-  font-family: 'billabong';
-  margin-bottom: 2px;
+  margin-bottom: 20px;
   width: 200px;
 }
 
-input
+.login .inputLog
 {
   width: 250px;
-  height: 32px;
+  height: 30px;
   transform: translate(-10%, -10%);
   box-sizing: border-box;
   margin-top: 8px;
   padding-left: 7px;
 }
 
-a input
+.inputEntrar a .log
 {
+  width: 250px;
+  height: 30px;
   margin-top: 16px;
+  margin-left: -25px;
   color: white;
   background: rgba(38,134,204,1);
   border-radius: 2px 2px 2px 2px;
@@ -97,7 +97,7 @@ p
   text-decoration: none;
 }
 
-.cadastro
+.cadastrologin
 {
   transform: translate(-20%, 400%);
   width: 342px;
@@ -105,7 +105,7 @@ p
   align-items: baseline;
 }
 
-.cadastro .conta
+.cadastrologin .conta
 {
   color: rgba(0, 0, 0, 0.747);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -113,7 +113,7 @@ p
   font-weight: bold
 }
 
-.cadastro #a
+.cadastrologin #a
 {
   text-decoration: none;
   color: rgba(38,134,204,1);
@@ -153,3 +153,4 @@ p
   width: 132px;
   padding-left: 5px;
 }
+

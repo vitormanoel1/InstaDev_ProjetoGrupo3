@@ -82,6 +82,9 @@ C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.
 C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.pdb
 C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.genruntimeconfig.cache
 C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csproj.CopyComplete
+<<<<<<< HEAD
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+=======
 G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.pdb
 G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csprojAssemblyReference.cache
 G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.GeneratedMSBuildEditorConfig.editorconfig
@@ -124,3 +127,4 @@ G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrup
 G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.Views.pdb
 G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.genruntimeconfig.cache
 G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csproj.CopyComplete
+>>>>>>> 864e4977b0d7006254e19d385a64fd99067bcff1
