@@ -1,27 +1,43 @@
+@{
+    ViewData["Title"] = "Home";
+}
 
 <!DOCTYPE html>
 <html lang="pt-br">
-
-
-<!DOCTYPE html>
-<html lang="en">
 
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - InstaDev</title>
-    <link rel="stylesheet" href="~/css/style.css" />
+    <link rel="stylesheet" href="~/css/login.css" />
+    
+
+    @switch (ViewData["Title"])
+    {
+
+         case "Home":
+            <link rel="stylesheet" href="~/css/login.css" />
+            break;
+        case "Usuarios":
+            <link rel="stylesheet" href="~/css/cadastro.css" /> 
+      
+            break;
+
+            default: 
+                <link rel="stylesheet" href="~/css/login.css" />
+            
+            break;
+       } 
+    
 </head>
 <body>
 
 
     
 
-    <div class="container">
-        <main role="main" class="pb-3">
+    
             @RenderBody()
-        </main>
-    </div>
+       
 
     
     

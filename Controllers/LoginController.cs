@@ -42,7 +42,7 @@ namespace InstaDev_ProjetoGrupo3.Controllers
             }
 
             Mensagem = "Dados incorretos, tente novamente...";
-            return LocalRedirect("~/Login");
+            return LocalRedirect("~/Logar");
         }
 
     }

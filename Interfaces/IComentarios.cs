@@ -3,14 +3,11 @@ using InstaDev_ProjetoGrupo3.Models;
 
 namespace InstaDev_ProjetoGrupo3.Interfaces
 {
-    public interface IUsuario
+    public interface IComentarios
     {
-         void Create(Usuario U);
+          void Create(Comentario C);
          List<Usuario> ReadAll();
-         void Update(Usuario u);
+         void Update(Comentario c);
          void Delete(int id);
-
-       
-
     }
 }
