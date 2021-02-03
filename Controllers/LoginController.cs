@@ -17,7 +17,7 @@ namespace InstaDev_ProjetoGrupo3.Controllers
             return View();
         }
 
-        [Route("Login")]
+        [Route("Logar")]
         public IActionResult Login(IFormCollection form)
         {
             // Lemos todos os arquivos do CSV
@@ -42,7 +42,7 @@ namespace InstaDev_ProjetoGrupo3.Controllers
             }
 
             Mensagem = "Dados incorretos, tente novamente...";
-            return LocalRedirect("~/Login");
+            return LocalRedirect("~/Logar");
         }
 
     }

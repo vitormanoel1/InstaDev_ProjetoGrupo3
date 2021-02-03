@@ -82,3 +82,4 @@ C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.
 C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.pdb
 C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.genruntimeconfig.cache
 C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csproj.CopyComplete
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs

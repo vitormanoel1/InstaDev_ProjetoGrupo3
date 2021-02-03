@@ -1,25 +1,28 @@
-﻿
+@model Usuario
 @{
-    ViewData["Title"] = "Home";
+    ViewData["Title"] = "Login";
 }
 
+<link rel="styleheet" href="~/css/login.css" />
 
-            <section class="formLogin">
+
+
+<body>
+        <main>
+            <section class="form">
+
                 <div class="login">
-
                     <div class="instadev">
-                        <img src="img/InstaDev.svg" alt="logo InstaDev">
+                        <h1>InstaDev</h1>
                     </div>
                     <form>
-                        <input class="inputLog" type="email" name="" placeholder="Email" alt="digite um email valido">
+                        <input type="email" name="" placeholder="Email" alt="digite um email valido">
                         <br>
-                        <input class="inputLog" type="password" name="" placeholder="Senha">
+                        <input type="password" name="" placeholder="Senha">
                         
-                    <div class="inputEntrar">
                     <a href="#">
-                        <input class="log" type="submit" value="Entrar">
+                        <input type="submit" value="Entrar">
                     </a>
-                    </div> 
                     
                     <div>
                         <hr id="line">
@@ -30,7 +33,7 @@
                         <a href="#" class="e">Esqueceu a senha?</a>
                     </form>
 
-                    <div class="cadastrologin">
+                    <div class="cadastro">
                         <p class="conta">Não tem uma conta?</p>
                         <a class="btn gradient" asp-area="" asp-controller="Usuario" asp-action="Index">Cadastrar Usuario</a>
                     </div>
@@ -48,4 +51,6 @@
                     </div>
                 </div>
             </section>
- 
+        </main>
+    </body>
+</html>
