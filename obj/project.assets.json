@@ -8,22 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\winicius\\.nuget\\packages\\": {}
+    "C:\\Users\\Cliente\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+      "projectUniqueName": "G:\\Projeto-InstaDev\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
       "projectName": "InstaDev_ProjetoGrupo3",
-      "projectPath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
-      "packagesPath": "C:\\Users\\winicius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\obj\\",
+      "projectPath": "G:\\Projeto-InstaDev\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+      "packagesPath": "C:\\Users\\Cliente\\.nuget\\packages\\",
+      "outputPath": "G:\\Projeto-InstaDev\\InstaDev_ProjetoGrupo3\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\winicius\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Cliente\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

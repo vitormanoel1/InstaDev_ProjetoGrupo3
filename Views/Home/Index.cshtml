@@ -1,24 +1,19 @@
-﻿@{
+﻿
+@{
     ViewData["Title"] = "Login";
 }
 
+<link rel="styleheet" href="~/css/login.css" />
 
-<!DOCTYPE html>
-<html lang="pt-br">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Login</title>
-        <link rel="stylesheet" href="css/style.css">
-    </head>
 
-    <body>
+
+<body>
         <main>
             <section class="form">
-                <div class="login">
 
+                <div class="login">
                     <div class="instadev">
-                        <img src="img/InstaDev.svg" alt="logo InstaDev">
+                        <h1>InstaDev</h1>
                     </div>
                     <form>
                         <input type="email" name="" placeholder="Email" alt="digite um email valido">
@@ -40,7 +35,7 @@
 
                     <div class="cadastro">
                         <p class="conta">Não tem uma conta?</p>
-                        <a href="#" id="a">Cadastre-se</a>
+                        <a class="btn gradient" asp-area="" asp-controller="Usuario" asp-action="Index">Cadastrar Usuario</a>
                     </div>
 
                     <div class="obtenha">
@@ -59,10 +54,3 @@
         </main>
     </body>
 </html>
-=======
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
-<a class="btn gradient" asp-area="" asp-controller="Usuario" asp-action="Index">Cadastrar Usuario</a>
-

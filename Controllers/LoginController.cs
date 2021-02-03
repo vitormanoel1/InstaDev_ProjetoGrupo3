@@ -17,7 +17,7 @@ namespace InstaDev_ProjetoGrupo3.Controllers
             return View();
         }
 
-        [Route("Logar")]
+        [Route("Login")]
         public IActionResult Login(IFormCollection form)
         {
             // Lemos todos os arquivos do CSV
@@ -45,11 +45,5 @@ namespace InstaDev_ProjetoGrupo3.Controllers
             return LocalRedirect("~/Login");
         }
 
-        [Route("Logout")]
-        public IActionResult Logout()
-        {
-            HttpContext.Session.Remove("_UserName");
-            return LocalRedirect("~/");
-        }
     }
 }

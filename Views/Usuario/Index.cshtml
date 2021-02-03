@@ -2,7 +2,7 @@
 @{
     ViewData["Title"] = "Usuarios";
 }
-<link rel="stylesheet" href="~/css/style.css" />
+<link rel="stylesheet" href="~/css/cadastro.css" />
 
  <main class="main">
         <section class="form">
@@ -15,23 +15,19 @@
                <form method="POST" action='@Url.Action("Cadastrar")' class="cadastro">
 
     <div class="cadastro">
-        <label>E-mail</label>
         <input type="text" name="Email" id="cadastrarEmail" placeholder="E-mail" class="dados" />
     </div>
 
 
     <div class="cadastro">
-        <label>Nome Completo</label>
         <input type="text" name="Nome" id="cadastrarNome" placeholder="Nome completo" class="dados"/>
     </div>
 
     <div class="cadastro">
-        <label>Nome de Usuario</label>
         <input type="text" name="Nickname"id="cadastrarNickname" placeholder="Nome de Usuário" class="dados " />
     </div>
 
     <div class="cadastro">
-        <label>Senha</label>
         <input type="password" name="Senha" id="cadastrarSenha" placeholder="Senha" class="dados" />
     </div>
 

@@ -1,0 +1,126 @@
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\appsettings.json
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.exe
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.deps.json
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.runtimeconfig.json
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.runtimeconfig.dev.json
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.dll
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\ref\InstaDev_ProjetoGrupo3.dll
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.pdb
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.Views.dll
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.Views.pdb
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csprojAssemblyReference.cache
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.AssemblyInfoInputs.cache
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.AssemblyInfo.cs
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csproj.CoreCompileInputs.cache
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.RazorAssemblyInfo.cache
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.RazorAssemblyInfo.cs
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\staticwebassets\InstaDev_ProjetoGrupo3.StaticWebAssets.Manifest.cache
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\staticwebassets\InstaDev_ProjetoGrupo3.StaticWebAssets.xml
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\scopedcss\bundle\InstaDev_ProjetoGrupo3.styles.css
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.TagHelpers.input.cache
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.TagHelpers.output.cache
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.RazorCoreGenerate.cache
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.RazorTargetAssemblyInfo.cache
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.RazorTargetAssemblyInfo.cs
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.Views.pdb
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.dll
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\ref\InstaDev_ProjetoGrupo3.dll
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.pdb
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.genruntimeconfig.cache
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csproj.CopyComplete
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Editar\Index.cshtml.g.cs
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\appsettings.json
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.exe
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.deps.json
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.runtimeconfig.json
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.runtimeconfig.dev.json
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.dll
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\ref\InstaDev_ProjetoGrupo3.dll
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.pdb
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.Views.dll
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.Views.pdb
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csprojAssemblyReference.cache
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.AssemblyInfoInputs.cache
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.AssemblyInfo.cs
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csproj.CoreCompileInputs.cache
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.RazorAssemblyInfo.cache
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.RazorAssemblyInfo.cs
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\staticwebassets\InstaDev_ProjetoGrupo3.StaticWebAssets.Manifest.cache
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\staticwebassets\InstaDev_ProjetoGrupo3.StaticWebAssets.xml
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\scopedcss\bundle\InstaDev_ProjetoGrupo3.styles.css
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.TagHelpers.input.cache
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.TagHelpers.output.cache
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.RazorCoreGenerate.cache
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Editar\Index.cshtml.g.cs
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Perfil\Index.cshtml.g.cs
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.RazorTargetAssemblyInfo.cache
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.RazorTargetAssemblyInfo.cs
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.Views.pdb
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.dll
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\ref\InstaDev_ProjetoGrupo3.dll
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.pdb
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.genruntimeconfig.cache
+C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csproj.CopyComplete
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.pdb
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csprojAssemblyReference.cache
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.AssemblyInfoInputs.cache
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.AssemblyInfo.cs
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csproj.CoreCompileInputs.cache
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.MvcApplicationPartsAssemblyInfo.cache
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.RazorAssemblyInfo.cache
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.RazorAssemblyInfo.cs
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\staticwebassets\InstaDev_ProjetoGrupo3.StaticWebAssets.Manifest.cache
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\staticwebassets\InstaDev_ProjetoGrupo3.StaticWebAssets.xml
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\scopedcss\bundle\InstaDev_ProjetoGrupo3.styles.css
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.TagHelpers.input.cache
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.TagHelpers.output.cache
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.RazorCoreGenerate.cache
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.dll
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\ref\InstaDev_ProjetoGrupo3.dll
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\appsettings.Development.json
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\appsettings.json
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.exe
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.deps.json
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.runtimeconfig.json
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.runtimeconfig.dev.json
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.dll
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\ref\InstaDev_ProjetoGrupo3.dll
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.pdb
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.Views.dll
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.Views.pdb
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Editar\Index.cshtml.g.cs
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Perfil\Index.cshtml.g.cs
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Usuario\Index.cshtml.g.cs
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.RazorTargetAssemblyInfo.cache
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.RazorTargetAssemblyInfo.cs
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.Views.pdb
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.genruntimeconfig.cache
+G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csproj.CopyComplete

@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD:obj/InstaDev_ProjetoGrupo3.json
     "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj": {}
   },
   "projects": {
@@ -12,12 +13,25 @@
         "projectPath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
         "packagesPath": "C:\\Users\\winicius\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\InstaDev_ProjetoGrupo3\\obj\\",
+=======
+    "C:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+        "projectName": "InstaDev_ProjetoGrupo3",
+        "projectPath": "C:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+        "packagesPath": "C:\\Users\\caicm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\obj\\",
+>>>>>>> 87719ee7945f3856a9351f21ef1bea86e8f30a75:obj/InstaDev_ProjetoGrupo3.csproj.nuget.dgspec.json
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\winicius\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\caicm\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

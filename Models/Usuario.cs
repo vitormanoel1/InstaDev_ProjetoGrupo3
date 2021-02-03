@@ -5,7 +5,9 @@ using InstaDev_ProjetoGrupo3.Interfaces;
 
 namespace InstaDev_ProjetoGrupo3.Models
 {
-    public class Usuario:InstaDevBase, IUsuario
+
+    public class Usuario : InstaDevBase, IUsuario
+
     {
         public string Email{get;set;}
         public string Nome { get; set; }
