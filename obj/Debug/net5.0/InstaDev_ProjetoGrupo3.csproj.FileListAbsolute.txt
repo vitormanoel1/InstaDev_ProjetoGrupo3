@@ -129,3 +129,4 @@ G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrup
 G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csproj.CopyComplete
 >>>>>>> 864e4977b0d7006254e19d385a64fd99067bcff1
 C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\OutroUsuario\Index.cshtml.g.cs
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\OutroUsuario\Index.cshtml.g.cs
