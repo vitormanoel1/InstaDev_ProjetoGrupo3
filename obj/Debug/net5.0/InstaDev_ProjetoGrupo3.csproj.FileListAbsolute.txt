@@ -82,3 +82,14 @@ C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.
 C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.pdb
 C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.genruntimeconfig.cache
 C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csproj.CopyComplete
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csprojAssemblyReference.cache
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.AssemblyInfo.cs
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.RazorAssemblyInfo.cache
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.RazorAssemblyInfo.cs
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.dll
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\ref\InstaDev_ProjetoGrupo3.dll
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.pdb
