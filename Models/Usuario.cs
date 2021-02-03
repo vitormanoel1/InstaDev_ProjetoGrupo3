@@ -9,8 +9,12 @@ namespace InstaDev_ProjetoGrupo3.Models
     public class Usuario : InstaDevBase, IUsuario
 
     {
-        public string Email{get;set;}
+        public int IdUsuario { get; set; }
         public string Nome { get; set; }
+        public string Foto { get; set; }
+        public DateTime DataNascimento { get; set; }
+        public int[] Seguidos { get; set; }
+        public string Email{get;set;}
         public string Nickname { get; set; }
         public string Senha { get; set; }
 
