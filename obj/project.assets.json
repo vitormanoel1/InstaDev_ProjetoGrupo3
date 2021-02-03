@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\caicm\\.nuget\\packages\\": {}
+    "C:\\Users\\Cliente\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+      "projectUniqueName": "G:\\Projeto-InstaDev\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
       "projectName": "InstaDev_ProjetoGrupo3",
-      "projectPath": "C:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
-      "packagesPath": "C:\\Users\\caicm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\obj\\",
+      "projectPath": "G:\\Projeto-InstaDev\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+      "packagesPath": "C:\\Users\\Cliente\\.nuget\\packages\\",
+      "outputPath": "G:\\Projeto-InstaDev\\InstaDev_ProjetoGrupo3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\caicm\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Cliente\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+  "FilePath": "g:\\Projeto-InstaDev\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15603,36 +15603,37 @@
   "RootNamespace": "InstaDev_ProjetoGrupo3",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FilePath": "g:\\Projeto-InstaDev\\InstaDev_ProjetoGrupo3\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\Views\\Editar\\Index.cshtml",
-      "TargetPath": "Views\\Editar\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\Views\\Perfil\\Index.cshtml",
-      "TargetPath": "Views\\Perfil\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\Views\\Usuario\\Index.cshtml",
-      "TargetPath": "Views\\Usuario\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "g:\\Projeto-InstaDev\\InstaDev_ProjetoGrupo3\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "g:\\Projeto-InstaDev\\InstaDev_ProjetoGrupo3\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Projeto-InstaDev\\InstaDev_ProjetoGrupo3\\Views\\Usuario\\Index.cshtml",
+      "TargetPath": "Views\\Usuario\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Projeto-InstaDev\\InstaDev_ProjetoGrupo3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Projeto-InstaDev\\InstaDev_ProjetoGrupo3\\Views\\Perfil\\Index.cshtml",
+      "TargetPath": "Views\\Perfil\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+<<<<<<< HEAD
       "FilePath": "c:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\Views\\Login\\Index.cshtml",
       "TargetPath": "Views\\Login\\Index.cshtml",
       "FileKind": "mvc"
@@ -15640,16 +15641,20 @@
     {
       "FilePath": "c:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+=======
+      "FilePath": "g:\\Projeto-InstaDev\\InstaDev_ProjetoGrupo3\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+>>>>>>> 864e4977b0d7006254e19d385a64fd99067bcff1
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\caicm\\OneDrive\\Área de Trabalho\\InstaDev_ProjetoGrupo3\\Views\\Home\\Index.cshtml",
+      "FilePath": "g:\\Projeto-InstaDev\\InstaDev_ProjetoGrupo3\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Projeto-InstaDev\\InstaDev_ProjetoGrupo3\\Views\\Editar\\Index.cshtml",
+      "TargetPath": "Views\\Editar\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
