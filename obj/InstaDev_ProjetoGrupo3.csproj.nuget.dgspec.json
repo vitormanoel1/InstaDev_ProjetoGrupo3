@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\Back-end\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj": {}
+    "C:\\Users\\fic\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\Back-end\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj": {
+    "C:\\Users\\fic\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\Back-end\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+        "projectUniqueName": "C:\\Users\\fic\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
         "projectName": "InstaDev_ProjetoGrupo3",
-        "projectPath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\Back-end\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
-        "packagesPath": "C:\\Users\\winicius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\Back-end\\InstaDev_ProjetoGrupo3\\obj\\",
+        "projectPath": "C:\\Users\\fic\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+        "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fic\\Desktop\\InstaDev_ProjetoGrupo3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\winicius\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\fic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
