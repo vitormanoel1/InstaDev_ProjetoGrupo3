@@ -217,3 +217,4 @@ C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGru
 C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.genruntimeconfig.cache
 C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csproj.CopyComplete
 >>>>>>> 8932a97f952b4d6db3431ee4c9806aef832a3f5a
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Publi\Index.cshtml.g.cs
