@@ -1,0 +1,153 @@
+@model Publicacao
+@{
+    ViewData["Title"] = "Feed";
+}
+
+<link rel="stylesheet" href="feed.css">
+<section class="feed1">
+                <div class="stories">
+                   <ul>
+                    <div class="s3">
+                        <li><a href="#"><img src="~/imagens/will-baiano 1.png" alt="Versão Baiana do ator Will Smith"></a></li>
+                        <img src="~/imagens/will_baianonome.png" >
+                    </div>
+                    <div>
+                        <li><a href="#"><img src="~/imagens/vin-diesel 1.png" alt="Sosia ator Vin Diesel"></a></li>
+                        <img src="~/imagens/vin_diesel (1)nome.png" >
+                    </div>
+                    <div>
+                        <li><a href="#"><img src="~/imagens/pele 1.png" alt="Sosia jogador Pele"></a></li>
+                        <img src="~/imagens/king_pelenome.png" >
+                    </div>
+                    <div class="s1">
+                        <li><a href="#"><img src="~/imagens/chaves_metal 1.png" alt="Sosia chaves versao metal"></a></li>
+                        <img src="~/imagens/chaves_metalnome.png" >
+                    </div>
+                    <div>
+                        <li><a href="#"><img src="~/imagens/gabigordo 1.png" alt="Sosia jogador Gabigol"></a></li>
+                        <img src="~/imagens/gabigordonome.png" >
+                    </div>
+                    <div>
+                        <li><a href="#"><img src="~/imagens/tony_stark 1.png" alt="Sosia personagem Tony Stark"></a></li>
+                        <img src="~/imagens/adriano_starknome.png" >
+                    </div>
+                    <div>
+                        <li><a href="#"><img src="~/imagens/samuel-rosa-bebê 1.png" alt="Versao criança do cantor Samuel Rosa"></a></li>
+                        <img src="~/imagens/samuel_rosanome.png" >
+                    </div>
+                   </ul>
+                </div>
+                <section class="KR">
+                    <div class="ftperfil">
+                        <img src="~/imagens/thank-you 2.png">
+                        <p><b>yes_baby</b><br><span style="color: #B6B6B6;"> Marcos Jeeves</span></p>
+                    </div>
+                </section>
+            </section>
+
+            
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css">
+<section>
+    <form method="POST" action='@Url.Action("Postar")' enctype="multipart/form-data"> 
+    <div class="postar">
+        <div class="img1">
+            <img src="~/imagens/thank-you 3.png">
+        </div>
+        <div class="img2">
+            <img src="~/imagens/Postar.png">
+        </div>
+        <div class="b1">
+            <h1>ID Publicacao</h1>
+            <input type="text" name="IdPublicacao" class="barrinha">
+        </div>
+        <div class="campo2">
+            <input type="file" name="Imagem">
+        </div>
+        <div class="campo1" >
+            <h1>Legenda</h1>
+        <input type="text" name="Legenda" class="border" >
+        </div>
+        
+        <div class="campo3">
+            <button type="submit"><h1>Postar</h1></button>
+        </form>
+        </div>
+        </div>   
+        </section>
+        
+         @foreach (Publicacao item in ViewBag.Publicacao)
+        { 
+            <div class="postagem">
+                <div class="post3">
+                <div class="ftperfil">
+                    <img src="~/imagens/thank-you 3.png">
+                    <p><b>yes_baby</b><br>Carapicuiba, SP <p></p></p>
+                <div class="idpubli">
+                    <td>@item.IdPublicacao</td>
+                </div>
+                </div>
+            <tr>
+                <div class="imgpost">
+                    <td class="imgpost"><img src="/img/Publicacoes/@item.Imagem" alt="Imagem Publicacao"></td>
+                </div>
+                <div class="icones">
+                <div class="icon1">
+                    <img src="~/imagens/curtir.png">
+                </div>
+                <div class="icon2">
+                    <img src="~/imagens/comentar.png">
+                </div>
+                <div class="comentar">
+                    <p>Comentar...</p>
+                </div>
+                <p><td><a asp-area="Excluir Publicacao" asp-controller="Publi" asp-action="ExcluirPost" asp-route-id="@item.IdPublicacao"><i class="fas fa-minus-circle"></i></a></td></p>
+                    </div>
+                <div class="curtidas">
+                    <td class="like"><p><b>@item.Likes</b> Likes</p> </td>
+                </div>
+                <div class="Legenda">
+                        <p><b>yes_baby</b></p> <p>@item.Legenda</p>
+                </div>
+            </tr>
+                </div>
+            </div>
+}
+        </section>
+            <section class="postagem">
+                <section class="post3">
+                <div class="ftperfil">
+                    <img src="~/imagens/perfilgabgordo.png">
+                    <p><b>gabigordo</b><br>Flamengo, RJ</p>
+                </div>
+                <div class="imgpost">
+                    <img src="~/imagens/post-gabigordo 1.png" alt="" srcset="">
+                </div>
+                    <div class="icones">
+                <div class="icon1">
+                    <img src="~/imagens/curtir.png">
+                </div>
+                <div class="icon2">
+                    <img src="~/imagens/comentar.png">
+                </div>
+                <div class="comentar">
+                    <p>Comentar...</p>
+                </div>
+                    </div>
+                <div class="curtidas">
+                    <p><b>2077</b> Likes</p>
+                </div>
+                
+                <div class="comentarios">
+                <div class="c1">
+                    <p><b>gabigordo</b> <span style="color: #2686CC;">#Flamengo</span>  Amo vocês mil milhões <3 </p>
+                </div>
+                <div class="c2">
+                    <p><b>yes_baby</b> Thank You <3</p>
+                </div>
+                <div class="c3">
+                    <p><b>King_pele</b> Esses são bons de bola, entende?<3</p>
+                </div>
+                </div>
+        </section>
+    </div>
+<section>
