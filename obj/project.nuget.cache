@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "+j4XShcdyIwGwmtkYEO/Q7VtfrKh9nLpOgc5T5grjp6m3dAOWJJdABavbei2R449W1aLgnMDUO5NQmVkWgbpgQ==",
+=======
+  "dgSpecHash": "JR8eFbuhNLSm/1i5N0DPQP9KMe7FNlj4I13DupJoTqaUOWnOGmMcWFavtenH2h1NKnPpuGCyyOAacjK/pISrlg==",
+>>>>>>> e63c454ee65893d1b838a4f94c2763ac9c514d8b
   "success": true,
   "projectFilePath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\Back-end\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
   "expectedPackageFiles": [],

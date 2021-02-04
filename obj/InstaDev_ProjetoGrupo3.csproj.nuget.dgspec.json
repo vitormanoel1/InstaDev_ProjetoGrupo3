@@ -13,8 +13,18 @@
         "packagesPath": "C:\\Users\\winicius\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\winicius\\Documents\\SENAI_Atividades\\Back-end\\InstaDev_ProjetoGrupo3\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\winicius\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+          "C:\\Users\\DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+>>>>>>> e63c454ee65893d1b838a4f94c2763ac9c514d8b
         ],
         "originalTargetFrameworks": [
           "net5.0"

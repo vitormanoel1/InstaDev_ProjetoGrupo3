@@ -217,4 +217,8 @@ C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGru
 C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.genruntimeconfig.cache
 C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csproj.CopyComplete
 >>>>>>> 8932a97f952b4d6db3431ee4c9806aef832a3f5a
+<<<<<<< HEAD
 C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Publi\Index.cshtml.g.cs
+=======
+C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Publi\Index.cshtml.g.cs
+>>>>>>> e63c454ee65893d1b838a4f94c2763ac9c514d8b
