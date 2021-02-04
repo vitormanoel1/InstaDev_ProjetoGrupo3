@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\fic\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+        "projectName": "InstaDev_ProjetoGrupo3",
+        "projectPath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+        "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 8932a97f952b4d6db3431ee4c9806aef832a3f5a
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
