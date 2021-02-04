@@ -1,0 +1,331 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+body{
+    color: white;
+    background-color: #e5e5e5;
+}
+
+/*header início*/
+
+/* .header-top{
+    /*background-color: red*/
+    /* width: 100%;
+    height: 3.30em;
+    border-bottom: solid 1px #f1f1f1;
+    background-color: white; */
+/* } */
+
+/* .content-header{ */
+    /* width: 95%;
+    /* background-color: yellow*/
+    /* max-width: 75em;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between; */
+/* } */
+
+/* .logo{
+    width: 33%;
+    height: 100%;
+    /*background-color: orange;*/
+    /* display: flex;
+    align-items: center;
+} */
+
+/* .logo img{
+    max-width: 4.875em;
+    height: 1.6875em;
+} */
+
+/* .pesquisar{
+    width: 45%;
+    height: 100%;
+    /* background-color: chartreuse; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+/* .pesquisa{
+    width: 16em;
+    height: 2.15em;
+    text-align: center;
+    border: solid 1px #ccc;
+    border-radius: 2px;
+    background-color: #FAFAFA;
+    color: #afafaf;
+    font-weight: 500;
+    margin-right: 5em;
+} */
+
+/* .pesquisar button{
+    display: none;
+} */
+
+/* .navegacao{
+    width: 34%;
+    height: 100%;
+    display: flex;
+} */
+
+/* .navegacao ul{
+    width: 55%;
+    height: 100%;
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    /* background-color: chocolate; */
+    /* justify-content: space-between; */
+/* } */
+header{
+    width: 100%;
+    height: 60px;
+    background-color: #fff;
+    display: flex; 
+    justify-content: space-around;
+    align-items: center;    
+    border-bottom: 1px solid #cccccc;
+}
+
+.container{
+    width: 70%;
+    height: 100%;
+    display: flex; 
+    align-items: center;
+    justify-content: space-around;
+}
+
+.logoInstaDev{
+    width: 82px;
+    height: 27px;
+}
+
+form{
+    width: 250px;
+    height: 30px;
+    background-color: #E5E5E5;
+}
+
+input[type="text" i]{
+    width: 100%;
+    height: 100%;
+    background-color:#FAFAFA;
+    font-size: 14px;
+    border: 1px solid #CCC;
+    padding-left: 20px;    
+}
+
+.logos{
+    width: 270px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.logos img{
+    width: 25px;
+    height: 25px;
+}
+
+.imagem-perfil{
+    width: 1.875em;
+    height: 1.875em;
+    border-radius: 6.25em;
+}
+.container{
+    width: 100%;
+    height: 51.95em;
+    background-color: E5E5E5 ;
+    display: flex;
+}
+.content {
+    position: absolute;
+    width: 65.437em;
+    height: 41.125em;
+    left: 21.75em;
+    top: 3.812em;
+    background-color: #ffff;
+    border: 1px solid #f1f1f1;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+.barra-divisao{
+    position: absolute;
+    width: 38.125em;
+    left: -100px;
+    height: 0px;
+    top: 19em;
+    background-color: #f1f1f1;
+    border: 1px solid #f1f1f1;
+    transform: rotate(90deg);
+}
+.esquerdo{
+    background-color: white;
+    width: 15.3125em;
+    height: 100%;
+}
+.barra-esquerda{
+    position: absolute;
+    width: 3.75em;
+    left: -1.875em;
+    top: 1.812em;
+    border: 1px solid #000000;
+    transform: rotate(90deg);
+}
+.img{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 362px;
+    top: 19px;
+    border-radius: 100px;
+}
+.editar-perfil{
+    color:black;
+    position: absolute;
+    width: 79px;
+    height: 20px;
+    left: 1.1875em;
+    top: 1.187em;
+    font-weight: 600;
+    font-size: 15px;
+}
+.username{
+    position: absolute;
+    color: black;
+    width: 209px;
+    height: 24px;
+    left: 433px;
+    top: 25px;
+    font-weight: 600;
+}
+.alterar-foto{
+    position: absolute;
+    width: 209px;
+    height: 24px;
+    left: 433px;
+    top: 50px;
+    text-decoration: none;
+    color: #2686CC;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+}
+.nome h1{
+    color:black;
+    position: absolute;
+    width: 48px;
+    height: 19px;
+    left: 373px;
+    top: 98px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+}
+.nome input{
+    position: absolute;
+    width: 354px;
+    height: 30px;
+    left: 433px;
+    top: 92px;
+    background: #FFFFFF;
+    border: 1px solid #DCDCDC;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+.nome p{
+    position: absolute;
+    width: 354px;
+    height: 48px;
+    left: 433px;
+    top: 134px;
+    font-size: 12px;
+    line-height: 16px;
+    color: #909090;
+}
+.nome-usuario h2{
+    color: black;
+    position: absolute;
+    width: 118px;
+    height: 19px;
+    left: 303px;
+    top: 250px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+}
+.nome-usuario input{
+    position: absolute;
+    width: 354px;
+    height: 30px;
+    left: 433px;
+    top: 244px;
+    background: #FFFFFF;
+    border: 1px solid #DCDCDC;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+.nome-usuario p{
+    position: absolute;
+    width: 354px;
+    height: 48px;
+    left: 433px;
+    top: 286px;
+    font-size: 12px;
+    line-height: 16px;
+    color: #909090;
+}
+.email h3{
+    color:black;
+    position: absolute;
+    width: 118px;
+    height: 19px;
+    left: 376px;
+    top: 433px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+}
+.email input{
+    position: absolute;
+    width: 354px;
+    height: 30px;
+    left: 433px;
+    top: 427px;
+    background: #FFFFFF;
+    border: 1px solid #DCDCDC;
+    box-sizing: border-box;
+    border-radius: 2px;
+}
+.inferior button{
+    position: absolute;
+    width: 66px;    
+    height: 30px; 
+    top: 507px;
+    left: 433px;
+    border-radius: 2px;   
+    line-height: 10px;    
+    color: #FFFFFF;         
+    font-weight: 600;
+    background-color: #2686CC;
+    cursor: pointer;    
+}
+.inferior a{
+    position: absolute;
+    width: 354px;
+    height: 16px;
+    left: 577px;
+    top: 514px;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    text-decoration: none;
+    color: #2686CC;
+}
