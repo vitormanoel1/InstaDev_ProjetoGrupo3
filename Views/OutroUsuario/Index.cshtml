@@ -10,8 +10,24 @@
     <link rel="stylesheet" href="css/style.css">
     <script src="https://kit.fontawesome.com/908d4a406a.js" crossorigin="anonymous"></script>
 </head>
+<header>
+    <div class="container">
+        <a href="#"><img class="logoInstaDev" src="~/img/Instadev.png" alt="Logo Instadev"></a>
+        <form action="">
+            <input type="text" placeholder="Pesquisar">
+        </form>
+        <div class="logos">
+            <a asp-area="" asp-controller="" asp-action="" class="logoPagPrincipal"><img src="~/img/PaginaPricipal.png" alt="Ir para página principal" ></a>
+            <a href="#" class="logoDirect"><img src="~/img/Direct.png" alt="Ir para o direct" ></a>
+            <a href="#" class="logoLocalizacao"><img src="~/img/Localizaçao.png" alt="Ver localizações" ></a>
+            <a href="#" class="logoCurtidas"><img src="~/img/Curtidas.png" alt="Ver  quem curtiu suas publicações" ></a>
+            <a asp-area="" asp-controller="Perfil" asp-action="Index" class="FotoPerfil"><img src="~/img/FotoPerfil.png" alt="Ir para perfil principal"></a>      
+        </div>
+    </div>
+</header>
 
-<header class="header-topo">
+
+@* <header class="header-topo">
     <div class="content-logo">
         
         <h1>Instadev</h1>
@@ -28,13 +44,13 @@
         <a href="#"><img src="./~/img/Vector(1).png" alt=""></a>
         <a href="#"><img src="./~/img/thank-you 0.png" alt=""></a>
     </div>
-  </header>
+  </header> *@
   <body>
   <main>
   <div class="img-perfil">
-      <img class="img-principal" src="./~/img/vitas.png" alt="">
+      <img class="img-principal" src="~/img/vitas.png" alt="">
       <div class="nome-perfil">Vitas_uaaaa</div> 
-      <img src="./~/img/verificado3.png" alt="" class="verificado">
+      <img src="~/img/verificado3.png" alt="" class="verificado">
       <div class="pub">
         <p href="publicações"> publicações</p>
       </div>
@@ -54,7 +70,7 @@
           <h2 href="99999">99999</h2>
         </div>
 
-        <div class="pontos"><a href="pontos"><img src="./~/img/pontos2.png" alt=""></a></div>
+        <div class="pontos"><a href="pontos"><img src="~/img/pontos2.png" alt=""></a></div>
      <form action="" class="seguir">
        <input type="button" value=""><p>Seguir</p>
      </form>
@@ -64,26 +80,26 @@
      <a target="_blank" href="https://www.youtube.com/watch?v=B5-X_3_Kpww" class="russo">Российский певец, писатель, композитор и актер латвийского происхождения.</a>
      <div class="line"></div>
      <a href="#" class="cubo">
-       <img src="./~/img/image 1.png" alt="" >
+       <img src="~/img/image 1.png" alt="" >
      </a>
      <p class="pub2">PUBLICAÇÔES</p>
     </div>
     <div class="pub-fotos1">
-      <img src="./~/img/vitasss3.png" alt="" class="vitaspost" >
+      <img src="~/img/vitasss3.png" alt="" class="vitaspost" >
     </div>
     <div class="vitasmenor">
-      <img src="./~/img/vitasmenor2.png" alt="">
+      <img src="~/img/vitasmenor2.png" alt="">
     </div>
         <div class="part-pub-coment">
           <p class="nome-pub1-1">Vitas_uaaaa</p>
           <p class="nome-pub1-2">Moscou, Rússia</p>
-          <a href="#" class="pub1-like1"><img src="./~/img/Vector(1).png" alt=""> <img src="./~/img/blao.png" alt=""> <p>1322 curtidas</p></a>
+          <a href="#" class="pub1-like1"><img src="~/img/Vector(1).png" alt=""> <img src="~/img/blao.png" alt=""> <p>1322 curtidas</p></a>
           <a href="https://www.instagram.com/neymarjr/" class="pub-coment-neymar">neymarjr </a>
           <p  class="pub-coment1">Sou seu maior fã !!!</p>
           <a href="#" class="vitas-coment">Vitas_uaaaa</a>
           <p class="resp-vitas">uaaaaa!!</p>
-          <a href="#" class="coracao1"><img src="./~/img/Vectorvermelho.png" alt=""></a>
-          <a href="#" class="coracao2"><img src="./~/img/Vectorpequeno.png" alt=""></a>
+          <a href="#" class="coracao1"><img src="~/img/Vectorvermelho.png" alt=""></a>
+          <a href="#" class="coracao2"><img src="~/img/Vectorpequeno.png" alt=""></a>
           <a href="#" class="outros-coment"><p>Ver todos os 465 comentários</p></a>
         </div>
 </main>

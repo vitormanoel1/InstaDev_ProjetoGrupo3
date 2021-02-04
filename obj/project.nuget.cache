@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JR8eFbuhNLSm/1i5N0DPQP9KMe7FNlj4I13DupJoTqaUOWnOGmMcWFavtenH2h1NKnPpuGCyyOAacjK/pISrlg==",
+  "dgSpecHash": "EjBPx4URP8HrgDciOtHXO6cutKiHqx/fN+683M12P4ZQgu50Qh+c1wGUzrPp2U7kPRSu7l7t3wZwgDGIS89REw==",
   "success": true,
   "projectFilePath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema ao ler o arquivo de cache C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
