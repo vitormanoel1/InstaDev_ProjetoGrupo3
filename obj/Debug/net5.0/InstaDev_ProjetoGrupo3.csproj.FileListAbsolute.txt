@@ -128,7 +128,6 @@ G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrup
 G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.genruntimeconfig.cache
 G:\Projeto-InstaDev\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csproj.CopyComplete
 >>>>>>> 864e4977b0d7006254e19d385a64fd99067bcff1
-<<<<<<< HEAD
 C:\Users\caicm\OneDrive\Área de Trabalho\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\OutroUsuario\Index.cshtml.g.cs
 C:\Users\winicius\Documents\SENAI_Atividades\Back-end\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\OutroUsuario\Index.cshtml.g.cs
 C:\Users\fic\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.pdb
@@ -174,7 +173,6 @@ C:\Users\fic\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGru
 C:\Users\fic\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\ref\InstaDev_ProjetoGrupo3.dll
 C:\Users\fic\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.genruntimeconfig.cache
 C:\Users\fic\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGrupo3.csproj.CopyComplete
-=======
 C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\appsettings.json
 C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\bin\Debug\net5.0\InstaDev_ProjetoGrupo3.exe
@@ -203,7 +201,6 @@ C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\InstaDev_ProjetoGru
 C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Editar\Index.cshtml.g.cs
 C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
 C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\OutroUsuario\Index.cshtml.g.cs
 C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Perfil\Index.cshtml.g.cs
 C:\Users\DEV\Desktop\InstaDev_ProjetoGrupo3\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs

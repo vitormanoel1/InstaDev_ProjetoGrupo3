@@ -24,6 +24,10 @@
 
               break;
 
+              case "Perfil":
+            <link rel="stylesheet" href="~/css/perfil.css">
+            break;
+
             default: 
                 <link rel="stylesheet" href="~/css/login.css" />
             
@@ -31,19 +35,10 @@
        } 
     
 </head>
-<body>
-
-
+<body>   
     
-
+        @RenderBody()    
     
-            @RenderBody()
-       
-
-    
-    
-
-
     @await RenderSectionAsync("Scripts", required: false)
 
 </body>

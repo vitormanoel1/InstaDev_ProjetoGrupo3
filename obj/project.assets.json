@@ -8,35 +8,27 @@
     "net5.0": []
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\fic\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\DEV\\.nuget\\packages\\": {}
->>>>>>> 8932a97f952b4d6db3431ee4c9806aef832a3f5a
+    "C:\\Users\\DEV\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\fic\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
-      "projectName": "InstaDev_ProjetoGrupo3",
-      "projectPath": "C:\\Users\\fic\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
-      "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fic\\Desktop\\InstaDev_ProjetoGrupo3\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\fic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
       "projectUniqueName": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
       "projectName": "InstaDev_ProjetoGrupo3",
       "projectPath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
       "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 8932a97f952b4d6db3431ee4c9806aef832a3f5a
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -81,5 +73,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
