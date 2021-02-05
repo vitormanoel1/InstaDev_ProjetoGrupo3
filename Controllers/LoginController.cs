@@ -45,5 +45,11 @@ namespace InstaDev_ProjetoGrupo3.Controllers
             return LocalRedirect("~/Logar");
         }
 
+        [Route("Logout")]
+        public IActionResult Logout()
+        {
+            HttpContext.Session.Remove("_UserName");
+            return LocalRedirect("~/");
+        }
     }
 }
