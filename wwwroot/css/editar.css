@@ -281,3 +281,18 @@ body{
     text-decoration: none;
     color: #2686CC;
 }
+/*.file-input label {
+    display: block;
+    position: relative;
+    width: 150px;
+    height: 35px;
+    border-radius: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #2686CC;
+    font-weight: bold;
+    cursor: pointer;
+    transition: transform .2s ease-out;
+}*/
