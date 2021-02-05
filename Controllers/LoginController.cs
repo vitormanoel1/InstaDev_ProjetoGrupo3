@@ -32,7 +32,7 @@ namespace InstaDev_ProjetoGrupo3.Controllers
                 x.Split(";")[0] == form["Email"] && 
                 x.Split(";")[1] == form["Senha"]
             );
-                
+            console.WriteLine($"usuario {logado}");
 
 
             // Redirecionamos o usuário logado caso encontrado
