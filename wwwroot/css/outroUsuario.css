@@ -14,6 +14,11 @@
     box-sizing: border-box;
 }
 
+.cont{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
 body{
     background-color: var(--backgroud);
     font-family: var(--font_site_light);
