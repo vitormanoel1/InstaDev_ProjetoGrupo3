@@ -2,9 +2,11 @@ using System.Collections.Generic;
 using InstaDev_ProjetoGrupo3.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System;
 
 namespace InstaDev_ProjetoGrupo3.Controllers
 {
+    [Route("Login")]
     public class LoginController : Controller
     {
          [TempData]
@@ -30,6 +32,7 @@ namespace InstaDev_ProjetoGrupo3.Controllers
                 x.Split(";")[0] == form["Email"] && 
                 x.Split(";")[1] == form["Senha"]
             );
+                
 
 
             // Redirecionamos o usuário logado caso encontrado

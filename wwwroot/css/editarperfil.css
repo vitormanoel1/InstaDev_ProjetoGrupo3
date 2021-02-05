@@ -85,6 +85,16 @@ body{
     /* background-color: chocolate; */
     /* justify-content: space-between; */
 /* } */
+/* header{
+    width: 100%;
+    height: 60px;
+    background-color: #fff;
+    display: flex; 
+    justify-content: space-around;
+    align-items: center;    
+    border-bottom: 1px solid #cccccc;
+} */
+
 header{
     width: 100%;
     height: 60px;
@@ -93,6 +103,43 @@ header{
     justify-content: space-around;
     align-items: center;    
     border-bottom: 1px solid #cccccc;
+}
+
+form{
+    width: 250px;
+    height: 30px;
+    background-color: #E5E5E5;
+}
+
+input[type="text" i]{
+    width: 100%;
+    height: 100%;
+    background-color:#FAFAFA;
+    font-size: 14px;
+    border: 1px solid #CCC;
+    padding-left: 20px;    
+}
+.container{
+    width: 70%;
+    height: 100%;
+    display: flex; 
+    align-items: center;
+    justify-content: space-around;
+}
+
+.logoInstaDev{
+    width: 82px;
+    height: 27px;
+}
+.logos{
+    width: 270px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.logos img{
+    width: 25px;
+    height: 25px;
 }
 
 .container{
