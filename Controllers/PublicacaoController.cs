@@ -9,6 +9,7 @@ namespace InstaDev_ProjetoGrupo3.Controllers
     [Route("Publicacao")]
     public class Publicontroller : Controller
     {
+        
         Publicacao publiModel = new Publicacao();
         [Route("Listar")]
         public IActionResult Index()

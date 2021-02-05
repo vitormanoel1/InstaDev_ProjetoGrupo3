@@ -11,30 +11,31 @@
     @switch (ViewData["Title"])
     {
 
-         case "Home":
+        case "Home":
             <link rel="stylesheet" href="~/css/login.css" />
             break;
+            
         case "Usuarios":
-            <link rel="stylesheet" href="~/css/cadastro.css" /> 
-      
+            <link rel="stylesheet" href="~/css/cadastro.css" />      
             break;
 
-            case "usuarioSecudario":
-              <link rel="stylesheet" href="~/css/outroUsuario.css" /> 
-
+        case "usuarioSecudario":
+              <link rel="stylesheet" href="~/css/outroUsuario.css" />
               break;
 
-              case "Perfil":
+        case "Perfil":
             <link rel="stylesheet" href="~/css/perfil.css">
             break;
 
-            case "Editar":
+        case "Editar":
             <link rel="stylesheet" href="~/css/editarperfil.css">
             break;
+        case "Feed":
+            <link rel="stylesheet" href="~/css/feed.css">
+            break;
 
-            default: 
-                <link rel="stylesheet" href="~/css/login.css" />
-            
+        default:
+            <link rel="stylesheet" href="~/css/login.css" />            
             break;
        } 
     
