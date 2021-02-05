@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj": {}
+    "C:\\Users\\caicm\\OneDrive\\Área de Trabalho\\INsta\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj": {
+    "C:\\Users\\caicm\\OneDrive\\Área de Trabalho\\INsta\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+        "projectUniqueName": "C:\\Users\\caicm\\OneDrive\\Área de Trabalho\\INsta\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
         "projectName": "InstaDev_ProjetoGrupo3",
-        "projectPath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
-        "packagesPath": "C:\\Users\\DEV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DEV\\Desktop\\InstaDev_ProjetoGrupo3\\obj\\",
+        "projectPath": "C:\\Users\\caicm\\OneDrive\\Área de Trabalho\\INsta\\InstaDev_ProjetoGrupo3\\InstaDev_ProjetoGrupo3.csproj",
+        "packagesPath": "C:\\Users\\caicm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caicm\\OneDrive\\Área de Trabalho\\INsta\\InstaDev_ProjetoGrupo3\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\caicm\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
