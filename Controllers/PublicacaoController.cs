@@ -79,5 +79,9 @@ namespace InstaDev_ProjetoGrupo3.Controllers
 
 
         }
+        public ActionResult VerStories()
+        {
+            return View("VerStories");
+        }
     }
 }

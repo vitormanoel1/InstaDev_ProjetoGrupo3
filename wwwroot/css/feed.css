@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600&display=swap');
+
+
 :root{
     --background:white;   
 }
@@ -10,66 +13,58 @@
 body{
     background-color: #E5E5E5;
 }
-.topo{
-    width: 90em;
-    max-width: 120em;
-    height: 3.30em;
-    padding: 1.2em;
-    padding-left: 3.5em;
-    padding-right: 1em;
-    background: #FFFFFF;
-    margin: auto;
-    justify-content: center;
-    border-bottom: solid 1px #dfd5d5;
-}
-
-.topo ul{
-    list-style-type: none;
-    margin-top: 0.6em;
-}
-.topo a {
+a{
     text-decoration: none;
-    color: white;
-    font-size: 1.5em;
-    padding: 0.8em;
+    color: black;
 }
-.pesquisa{
-    Width: 13.43em;
-    Height: 1.75em;
-    margin-top: 0.08em;
-    margin-left: 13em;
-    margin-right: 3em;
-    border-radius: 0.125em;
-    background-color: #FAFAFA;
-    display: flex;
-}
-.pesquisa img{
-    margin: auto;
-    padding-right: 40px;
-    margin-left: 10px;
 
+header{
+    width: 100%;
+    height: 60px;
+    background-color: #fff;
+    display: flex; 
+    justify-content: space-around;
+    align-items: center;    
+    border-bottom: 1px solid #cccccc;
 }
-.pesquisa h3{
-    font-size: 14px;
-    margin: auto;
-    padding-right: 50px;
-    color: #AFAFAF;
-}
-.content{
-    padding-left: 08em;
-    width: 80%;
+
+.container{
+    width: 70%;
     height: 100%;
-    margin: auto;
+    display: flex; 
+    align-items: center;
+    justify-content: space-around;
 }
 
-.centralizador{
-    display: flex;
-    justify-items: auto;
-    align-items: center;
+.container-bio{
+    width: 100%;
 }
-menu ul{
-    list-style-type: none;
-    justify-content: space-between;
+
+.logoInstaDev{
+    width: 82px;
+    height: 27px;
+}
+
+.logos{
+    width: 270px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.logos img{
+    width: 25px;
+    height: 25px;
+}
+.formpesquisa{
+        width: 100%;
+        height: 100%;
+        background-color: #FAFAFA;
+        font-size: 14px;
+        border: 1px solid #CCC;
+        padding-left: 20px;
+        padding-right: 4em;
+        padding-top: 0.4em;
+        padding-bottom: 0.5em;
 }
 .feed1{
     margin: auto;
@@ -97,8 +92,70 @@ menu ul{
 .stories img{
     padding: 0.7em;
     margin-left: 10px;
-
 }
+.heart-btn{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    margin-left: 35px;
+    margin-top: 18px;
+  }
+  .conteudo{
+    padding: 5px 8px;
+    display: flex;
+    border: 2px solid #eae2e1;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .conteudo.heart-active{
+    border-color: #f9b9c4;
+    background: #fbd0d8;
+  }
+  .heart{
+    position: absolute;
+    background: url("../imagens/like.png") no-repeat;
+    background-position: left;
+    background-size: 2900%;
+    height: 60px;
+    width: 60px;
+    top: 50%;
+    left: 21%;
+    transform: translate(-50%,-50%);
+    margin-left: 8px;
+    padding-right: 5px;
+  }
+  .text{
+    font-size: 18px;
+    margin-left: 30px;
+    color: grey;
+    font-family: 'Montserrat',sans-serif;
+  }
+  .numb:before{
+    content: '0';
+    font-size: 18px;
+    margin-left: 7px;
+    font-weight: 600;
+    color: #9C9496;
+    font-family: sans-serif;
+  }
+  .numb.heart-active:before{
+    content: '1';
+    color: #000;
+  }
+  .text.heart-active{
+    color: #000;
+  }
+  .heart.heart-active{
+    animation: animate .8s steps(28) 1;
+    background-position: right;
+  }
+  @keyframes animate {
+    0%{
+      background-position: left;
+    }
+    100%{
+      background-position: right;
+    }
+  }
 
 .KR{
     margin-top: -15px;
@@ -226,6 +283,7 @@ menu ul{
     margin-left: -180px;
     margin-bottom: 30px;
     font-size: 14px;
+    padding-top: 0.18em;
 }
 .campo2 p{
     color: grey;
@@ -273,10 +331,11 @@ menu ul{
     height: 610px;
     background-color: var(--background);
     margin: auto;
-    
-    margin-top: 30px;
+    padding: auto;
     border: solid 0.5px #dfd5d5;
+    margin-top: 20px;
 }
+
 .ftperfil{
     display: flex;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -307,13 +366,15 @@ menu ul{
 }
 .icon2{
     padding-right: 0.8em;
+    margin-left: 110px;
+    margin-top: 6px;
     
 }
 .Legenda{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 13px;
     padding: 1em;
-    margin-top: -3px;
+    margin-top: 10px;
     margin-left: 18px;
     display: flex;
     text-align: justify;
@@ -330,10 +391,12 @@ menu ul{
     width: 220px;
     height: 27px;
     border-bottom: solid 1px #DCDCDC;
-    margin-left: 13px;
+    margin-left: 150px;
+    margin-top: -25px;
 }
 .comentar p{
     color: #AFAFAF;
+    
 }
 .curtidas{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -349,18 +412,29 @@ menu ul{
     font-size: 13px;
     margin-left: 13px;
 }
+.base{
+    margin-bottom: 70px;
+}
+.Excluir{
+    margin-left: 380px;
+    margin-top: -25px;
+}
 .c1 {
+    margin-top: 15px;
     padding: 0.2em;
     margin-left: 10px;
     margin-bottom: -5px;
 }
 .c2 {
+    margin-top: 5px;
     padding: 0.2em;
     margin-left: 10px;
 }
 .c3 {
+    margin-top: 5px;
     padding: 0.2em;
     margin-left: 10px;
+    margin-bottom: 80px;
 }
 .postagem2{
     width: 700px;
@@ -369,7 +443,9 @@ menu ul{
     margin: auto;
     margin-top: 30px;
     border: solid 0.5px #dfd5d5;
+    padding-top: 1em;
 }
+
 .idpubli{
     width: 70px;
     display: none;

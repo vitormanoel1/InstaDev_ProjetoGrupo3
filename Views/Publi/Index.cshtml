@@ -1,38 +1,55 @@
-@* @model Publicacao *@
+@model Publicacao 
 @{
     ViewData["Title"] = "Feed";
 }
 
 <link rel="stylesheet" href="~/css/feed.css">
+<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+<script src="~/js/site.js"></script>
+<header>
+    <div class="container">
+        <a asp-area="" asp-controller="Publi" asp-action="Index"><img class="logoInstaDev" src="~/img/Instadev.png" alt="Logo Instadev"></a>
+        <form action="">
+            <input type="text" placeholder="Pesquisar" class="formpesquisa">
+        </form>
+        <div class="logos">
+            <a asp-area="" asp-controller="Publi" asp-action="Index" class="logoPagPrincipal"><img src="~/img/PaginaPricipal.png" alt="Ir para página principal" ></a>
+            <a href="#" class="logoDirect"><img src="~/img/Direct.png" alt="Ir para o direct" ></a>
+            <a href="#" class="logoLocalizacao"><img src="~/img/Localizaçao.png" alt="Ver localizações" ></a>
+            <a href="#" class="logoCurtidas"><img src="~/img/Curtidas.png" alt="Ver  quem curtiu suas publicações" ></a>
+            <a asp-area="" asp-controller="Perfil" asp-action="Index" class="FotoPerfil"><img src="~/img/FotoPerfil.png" alt="Ir para perfil principal"></a>      
+        </div>
+    </div>
+</header>
 <section class="feed1">
                 <div class="stories">
                    <ul>
                     <div class="s3">
-                        <li><a href="#"><img src="~/imagens/will-baiano 1.png" alt="Versão Baiana do ator Will Smith"></a></li>
+                        <a asp-area="Views" asp-controller="Publi" asp-action="VerStories"><img src="~/imagens/will-baiano 1.png" alt="Versão Baiana do ator Will Smith"></a>
                         <img src="~/imagens/will_baianonome.png" >
                     </div>
                     <div>
-                        <li><a href="#"><img src="~/imagens/vin-diesel 1.png" alt="Sosia ator Vin Diesel"></a></li>
+                        <a asp-area="Views" asp-controller="Publi" asp-action="VerStories"><img src="~/imagens/vin-diesel 1.png" alt="Sosia ator Vin Diesel"></a>
                         <img src="~/imagens/vin_diesel (1)nome.png" >
                     </div>
                     <div>
-                        <li><a href="#"><img src="~/imagens/pele 1.png" alt="Sosia jogador Pele"></a></li>
+                        <a asp-area="Views" asp-controller="Publi" asp-action="VerStories"><img src="~/imagens/pele 1.png" alt="Sosia jogador Pele"></a></li>
                         <img src="~/imagens/king_pelenome.png" >
                     </div>
                     <div class="s1">
-                        <li><a href="#"><img src="~/imagens/chaves_metal 1.png" alt="Sosia chaves versao metal"></a></li>
+                        <a asp-area="Views" asp-controller="Publi" asp-action="VerStories"><img src="~/imagens/chaves_metal 1.png" alt="Sosia chaves versao metal"></a></li>
                         <img src="~/imagens/chaves_metalnome.png" >
                     </div>
                     <div>
-                        <li><a href="#"><img src="~/imagens/gabigordo 1.png" alt="Sosia jogador Gabigol"></a></li>
+                        <a asp-area="Views" asp-controller="Publi" asp-action="VerStories"><img src="~/imagens/gabigordo 1.png" alt="Sosia jogador Gabigol"></a></li>
                         <img src="~/imagens/gabigordonome.png" >
                     </div>
                     <div>
-                        <li><a href="#"><img src="~/imagens/tony_stark 1.png" alt="Sosia personagem Tony Stark"></a></li>
+                        <a asp-area="Views" asp-controller="Publi" asp-action="VerStories"><img src="~/imagens/tony_stark 1.png" alt="Sosia personagem Tony Stark"></a></li>
                         <img src="~/imagens/adriano_starknome.png" >
                     </div>
                     <div>
-                        <li><a href="#"><img src="~/imagens/samuel-rosa-bebê 1.png" alt="Versao criança do cantor Samuel Rosa"></a></li>
+                        <a asp-area="Views" asp-controller="Publi" asp-action="VerStories"><img src="~/imagens/samuel-rosa-bebê 1.png" alt="Versao criança do cantor Samuel Rosa"></a></li>
                         <img src="~/imagens/samuel_rosanome.png" >
                     </div>
                    </ul>
@@ -77,6 +94,7 @@
         
          @foreach (Publicacao item in ViewBag.Publicacao)
         { 
+            
             <div class="postagem">
                 <div class="post3">
                 <div class="ftperfil">
@@ -86,13 +104,19 @@
                     <td>@item.IdPublicacao</td>
                 </div>
                 </div>
-            <tr>
                 <div class="imgpost">
                     <td class="imgpost"><img src="/img/Publicacoes/@item.Imagem" alt="Imagem Publicacao"></td>
                 </div>
                 <div class="icones">
                 <div class="icon1">
-                    <img src="~/imagens/curtir.png">
+                    <div class="heart-btn">
+                    <div class="conteudo">
+                        <span class="heart"></span>
+                        <span class="text"></span>
+                        <span class="numb"></span>
+                    </div>
+                </div>
+                </div>
                 </div>
                 <div class="icon2">
                     <img src="~/imagens/comentar.png">
@@ -100,18 +124,15 @@
                 <div class="comentar">
                     <p>Comentar...</p>
                 </div>
-                <p><td><a asp-area="Excluir Publicacao" asp-controller="Publi" asp-action="ExcluirPost" asp-route-id="@item.IdPublicacao"><i class="fas fa-minus-circle"></i></a></td></p>
-                    </div>
-                <div class="curtidas">
-                    <td class="like"><p><b>@item.Likes</b> Likes</p> </td>
+                <div class="Excluir">
+                    <p><td><a asp-area="Excluir Publicacao" asp-controller="Publi" asp-action="ExcluirPost" asp-route-id="@item.IdPublicacao"><i class="fas fa-minus-circle"></i></a></td></p>
                 </div>
+                    </div>
                 <div class="Legenda">
                         <p><b>yes_baby</b></p> <p>@item.Legenda</p>
+                </div>           
                 </div>
-            </tr>
-                </div>
-            </div>
-}
+    }
         </section>
             <section class="postagem">
                 <section class="post3">
@@ -124,7 +145,14 @@
                 </div>
                     <div class="icones">
                 <div class="icon1">
-                    <img src="~/imagens/curtir.png">
+                    <div class="heart-btn">
+                    <div class="conteudo">
+                        <span class="heart"></span>
+                        <span class="text"></span>
+                        <span class="numb"></span>
+                    </div>
+                </div>
+                </div>
                 </div>
                 <div class="icon2">
                     <img src="~/imagens/comentar.png">
@@ -133,10 +161,7 @@
                     <p>Comentar...</p>
                 </div>
                     </div>
-                <div class="curtidas">
-                    <p><b>2077</b> Likes</p>
-                </div>
-                
+
                 <div class="comentarios">
                 <div class="c1">
                     <p><b>gabigordo</b> <span style="color: #2686CC;">#Flamengo</span>  Amo vocês mil milhões <3 </p>
@@ -147,7 +172,75 @@
                 <div class="c3">
                     <p><b>King_pele</b> Esses são bons de bola, entende?<3</p>
                 </div>
+        </section>
+    </div>
+<section>
+    </section>
+    <section class="postagem">
+                <section class="post3">
+                <div class="ftperfil">
+                    <img src="~/imagens/pele 1.png" width="62" height="64">
+                    <p><b>King_pele</b><br>Santos, SP</p>
                 </div>
+                <div class="imgpost">
+                    <img src="~/imagens stories/pelopost.png" alt="" srcset="" width="600" height="350">
+                </div>
+                    <div class="icones">
+                <div class="icon1">
+                    <div class="heart-btn">
+                    <div class="conteudo">
+                        <span class="heart"></span>
+                        <span class="text"></span>
+                        <span class="numb"></span>
+                    </div>
+                </div>
+                </div>
+                </div>
+                <div class="icon2">
+                    <img src="~/imagens/comentar.png">
+                </div>
+                <div class="comentar">
+                    <p>Comentar...</p>
+                </div>
+                <div class="Legenda">
+                        <p><b>King_pele</b></p> <p>Para mim, #barackobama representa a capacidade do ser humano de mudar o mundo através das boas ideias. Eu te admiro profundamente, Barack. Pessoas como você fazem o mundo melhor. Feliz aniversário!</p>
+                </div>  
+                <div class="base">
+
+                    </div>
+                    </div>
+        </section>
+        <section class="postagem">
+                <section class="post3">
+                <div class="ftperfil">
+                    <img src="~/imagens/will-baiano 1.png" width="62" height="64">
+                    <p><b>Will Baiano</b><br>Salvador, BA</p>
+                </div>
+                <div class="imgpost">
+                    <img src="~/imagens stories/Willpost.png" alt="" srcset="" width="600" height="350">
+                </div>
+                    <div class="icones">
+                <div class="icon1">
+                    <div class="heart-btn">
+                    <div class="conteudo">
+                        <span class="heart"></span>
+                        <span class="text"></span>
+                        <span class="numb"></span>
+                    </div>
+                </div>
+                </div>
+                </div>
+                <div class="icon2">
+                    <img src="~/imagens/comentar.png">
+                </div>
+                <div class="comentar">
+                    <p>Comentar...</p>
+                </div>
+                <div class="Legenda">
+                        <p><b>will_baiano</b></p> <p>Exatamente isso, sou eu dançando papugurugudu com #ocantorflavinho , se já era fã, agora sou mais ainda, humildade em pessoa, uma energia fora de série. Foi uma honra e uma realização participar dessa live ao lado de pessoas maravilhosas. </p>
+                </div> 
+                    </div>
+                    
         </section>
     </div>
 <section>

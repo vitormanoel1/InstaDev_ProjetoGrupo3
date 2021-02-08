@@ -2,3 +2,15 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
+
+                
+                    $(document).ready(function(){
+                    $('.conteudo').click(function(){
+                    $('.conteudo').toggleClass("heart-active")
+                    
+                    $('.numb').toggleClass("heart-active")
+                    $('.heart').toggleClass("heart-active")
+                        });
+                    });
+                      
+                
